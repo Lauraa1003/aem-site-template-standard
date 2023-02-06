@@ -465,7 +465,8 @@
                                 uuidDisabled="true"
                                 enableAssetDelivery="true"
                                 enableDmFeatures="true"
-                                sizes="(max-width: 500px) 50vw, 100vw">
+                                sizes="(max-width: 500px) 50vw, 100vw"
+                                >
                                 <jcr:content jcr:primaryType="nt:unstructured"/>
                                 <plugins jcr:primaryType="nt:unstructured">
                                     <crop
