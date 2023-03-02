@@ -39,10 +39,7 @@
                         displayPopupTitle="false"
                         fileReference="/content/dam/aem-site-template-standard/building_large.png"
                         isDecorative="true"
-                        titleValueFromDAM="false"
-                        uuidDisabled="true"
-                        enableAssetDelivery="true"
-                        enableDmFeatures="true">
+                        titleValueFromDAM="false">
                         <cq:responsive jcr:primaryType="nt:unstructured">
                             <default
                                 jcr:primaryType="nt:unstructured"
